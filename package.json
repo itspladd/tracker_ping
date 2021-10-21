@@ -1,0 +1,14 @@
+{
+  "name": "tracker_ping",
+  "version": "0.0.1",
+  "description": "Ping a sound every 30 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
+}
