@@ -5,5 +5,5 @@ const remindMe = () => {
   console.log(`Reminder ping at ${Date()}`)
 };
 
-console.log('Running reminder');
+console.log(`Running reminder at ${Date()}`);
 setInterval(remindMe, 60*30*1000);
